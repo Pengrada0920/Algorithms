@@ -27,7 +27,6 @@ import java.util.List;
 
 public class P341FlattenNestedListIterator {
     public static void main(String[] args) {
-        Solution solution = new P341FlattenNestedListIterator().new Solution();
         // TO TEST
     }
     //leetcode submit region begin(Prohibit modification and deletion)
